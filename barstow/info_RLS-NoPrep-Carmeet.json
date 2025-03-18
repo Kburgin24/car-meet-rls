@@ -1,0 +1,7 @@
+{
+  "Config Type":"CarmeetRLS",
+  "Configuration":"BigBlock",
+  "Description":"Thats one big block",
+  "Value":100000,
+  "Population":50,
+}
