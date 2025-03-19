@@ -1,0 +1,8 @@
+{
+  "Config Type":"CarmeetRLS",
+  "Configuration":"Car meet",
+  "Body Style":"Coupe",
+  "Description":"Car meet, but its a coupe",
+  "Population":50,
+  "Value":100000,
+}
